@@ -1,0 +1,5 @@
+print("Hello World!")
+print("I am Pappu Roy.")
+print("I am learning Python.")
+print("I am enjoying it.")
+print("Now it is 2025!")
